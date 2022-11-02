@@ -11,3 +11,6 @@ Nishika「[AI×商標：イメージサーチコンペティション](https://w
 - CPU	  ：1コア　、RAM　13GB
 - GPU	  ：Tesla T4、メモリ 16GB
 - CUDA  ：11.2  
+
+### 参考
+- [Nishika 2nd place solution](https://github.com/anyai-28/nishika_jpo_2nd_solution)
